@@ -7,6 +7,8 @@ class Nodes:
                                                 self.entropy=0.0;
                                                 self.attrTaken={};
                                                 self.indexList =[];
+                                                self.wrong=0;
+                                                self.key='';
                                                 
                                                 
 
